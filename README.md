@@ -6,8 +6,10 @@
 
 - 💻 My technical interests include web development, machine learning.
 
-- ⌨️ My most familiar techniques include C++, Node.js, Express.js, React.js, Flask, MongoDB etc.
-
 - 🌟 I enjoy exploring new techniques and tech development during free time.
+
+- ⌨️ My most familiar techniques include C++, Node.js, Express.js, React.js, Flask, MongoDB and etc.
+
+- 🌎 I joined different Summer Bootcamps about App Development, Artificial Intelligence, etc. in Germany🇩🇪, the UK🇬🇧, the USA🇺🇸, and China🇨🇳, so I have been Berlin Institute of Technology, the University of Edinburgh, Carnegie Mellon University, and Shanghai Jiaotong University. 
 
 - 📫 Feel free to reach out to me at [jiawenz@umich.edu] or connect with me on [LinkedIn](https://www.linkedin.com/in/jiawenz-robin/).
