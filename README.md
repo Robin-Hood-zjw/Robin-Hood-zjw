@@ -1,10 +1,6 @@
-## Hi there 👋 I'm Le Yang, a Computer Science graduate student at UC San Diego.
+## Hi there 👋 I'm Jiawen Zhang, a  graduate student at University of Michigan - Ann Arbor.
 
-- 🎓 I'm pursuing a Master's Degree in Computer Science with a focus on Distributed Systems and Artificial Intelligence.
-
-- 💻 I have strong skills in software development and machine learning.
-
-- 💼 Last summer, I interned as a Backend Developer at NeuralX, Inc in Los Angeles, where I worked on class auto-generation and auto-assignment of [Presence.fit](https://apps.apple.com/us/app/presence-fit/id1494435397), an AI-powered fitness app built with NodeJS.
+- 🎓 I'm pursuing a Master's Degree in 💻Computer Science with a focus on Software Engineering and Artificial Intelligence.
 
 - 🏢 Previously, I interned as a Software Developer at SAP in China, where I participated in the development and maintenance of [SAP Work Zone](https://www.sap.com/products/technology-platform/workzone.html), a cloud-based digital workplace that helps employees in an organization communicate and collaborate better.
 
@@ -14,7 +10,4 @@
 
 - 🌟 In my free time, I enjoy working on personal projects and exploring new technologies.
 
-- 📫 Feel free to reach out to me at [ley004@ucsd.edu] or connect with me on [LinkedIn](https://www.linkedin.com/in/le-yang-sd/).
-
-
-<!-- [![Easonrust's github stats](https://github-readme-stats.vercel.app/api?username=Easonrust&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+- 📫 Feel free to reach out to me at [jiawenz@umich.edu] or connect with me on [LinkedIn](https://www.linkedin.com/in/jiawenz-robin/).
