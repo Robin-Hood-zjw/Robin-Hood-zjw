@@ -6,7 +6,7 @@
 
 - 💻 My technical interests include web development, machine learning.
 
-- ⌨️ My most familiar techniques include C++, Node.js, Express.js, Flask, MongoDB etc.
+- ⌨️ My most familiar techniques include C++, Node.js, Express.js, React.js, Flask, MongoDB etc.
 
 - 🌟 I enjoy exploring new techniques and tech development during free time.
 
