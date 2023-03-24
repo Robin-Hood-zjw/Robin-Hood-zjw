@@ -1,6 +1,6 @@
 ## Hello there 👋 I'm Jiawen Zhang (Robin), a graduate student at University of Michigan.
 
-- 🎓 I'm pursuing a Master's Degree in Computer Science in Ann Arbor City.
+- 🎓 I'm pursuing a Master's Degree in Computer Science in 🇺🇸 Ann Arbor.
 
 - 📔 I focus on Software Engineering and Artificial Intelligence.
 
