@@ -12,4 +12,4 @@
 
 - 🌎 I joined different Bootcamps about App Development, Artificial Intelligence, etc. in 🇩🇪🇬🇧🇺🇸🇨🇳.
 
-- 📫 Feel free to reach out to me at [jiawenz.robin@gmail.edu] or connect with me on [LinkedIn](https://www.linkedin.com/in/jiawenz-robin/).
+- 📫 Feel free to reach out to me at [jiawenz.robin@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/jiawenz-robin/).
