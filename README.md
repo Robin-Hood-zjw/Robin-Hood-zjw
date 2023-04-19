@@ -4,7 +4,7 @@
 
 - 📔 I focus on Software Engineering and Artificial Intelligence.
 
-- 💻 My technical interests include web development, machine learning.
+- 💻 My technical interests include web development and machine learning.
 
 - 🌟 I enjoy exploring new techniques and tech development during free time.
 
