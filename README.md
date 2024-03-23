@@ -1,10 +1,10 @@
 ## Hello there 👋 I'm Jiawen Zhang (Robin), a graduate student at the University of Michigan.
 
-- 🎓 I'm pursuing a Master's Degree in Computer Science in 🇺🇸 Ann Arbor.
+- 🎓 I graduated with a Master's Degree in Computer Science in 🇺🇸.
 
 - 📔 I focus on Software Engineering and Artificial Intelligence.
 
-- 💻 My technical interests include web development and machine learning.
+- 💻 My technical interests include software development and machine learning.
 
 - 🌟 I enjoy exploring new techniques and tech development during my free time.
 
