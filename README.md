@@ -1,6 +1,6 @@
-## Hello there 👋 I'm Jiawen Zhang (Robin), a graduate student at the University of Michigan.
+## Hello there 👋 I'm Jiawen Zhang (Robin), a software engineer.
 
-- 🎓 I graduated with a Master's Degree in Computer Science in 🇺🇸.
+- 🌎 I am located in the United States.
 
 - 📔 I focus on Software Engineering and Artificial Intelligence.
 
