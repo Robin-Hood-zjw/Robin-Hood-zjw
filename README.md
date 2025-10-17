@@ -2,7 +2,7 @@
 
 - 🌎 I am located in the United States.
 
-- 🌟 I enjoy weightlifting, jujitsu, and wrestling during my free time.
+- 🌟 I enjoy weightlifting, jiujitsu, and wrestling during my free time.
 
 - ⌨️ My most familiar techniques include C++, Node.js, Express.js, React.js, Flask, MongoDB, etc.
 
