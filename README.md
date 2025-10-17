@@ -2,11 +2,7 @@
 
 - 🌎 I am located in the United States.
 
-- 📔 I focus on Software Engineering and Artificial Intelligence.
-
-- 💻 My technical interests include software development and machine learning.
-
-- 🌟 I enjoy exploring new techniques and tech development during my free time.
+- 🌟 I enjoy weightlifting, jujitsu, and wrestling during my free time.
 
 - ⌨️ My most familiar techniques include C++, Node.js, Express.js, React.js, Flask, MongoDB, etc.
 
