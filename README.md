@@ -1,7 +1,4 @@
-## Hello there 👋 I'm Jiawen Zhang (Robin), a software engineer.
-
-- 🌎 I am located in the United States.
-
+## Hello there 👋 I'm Jiawen Zhang, a software engineer.
 - 🌟 I enjoy weightlifting, jiujitsu, and wrestling during my free time.
 
 - ⌨️ My most familiar techniques include C++, Node.js, Express.js, React.js, Flask, MongoDB, etc.
